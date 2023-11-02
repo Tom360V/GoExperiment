@@ -1,8 +1,9 @@
 package main
 
 import (
-	"GoExperiment/pkg/foo"
 	"log"
+
+	"github.com/tom360v/GoExperiment/pkg/foo"
 )
 
 func main() {
